@@ -1,5 +1,5 @@
 # Itch.io Links:
-If you want to install the game, go to the game's itch.io page: <br>
+If you want to install/see more about the game, go to the game's itch.io page: <br>
 - The game: https://paul1234567890.itch.io/space-base-sabotage
 - My page: https://paul1234567890.itch.io/
 
