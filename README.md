@@ -12,7 +12,6 @@ You have landed on a red planet next to a space base to sabotage the base and st
 Your aim is to kill the extremely dangerous captain of the space base for total control of the base and supplies.
 
 # Credits:
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - All character animations and rigging - https://www.mixamo.com/#/ <br>
 - Astronaut by Paul Fitzgerald (Assignment 1 from 3D Game Assets) <br>
 - Deep Space SkyBox Pack by Sean Duffy - https://assetstore.unity.com/packages/2d/textures-materials/deep-space-skybox-pack-11056 <br>
@@ -21,10 +20,8 @@ Your aim is to kill the extremely dangerous captain of the space base for total 
 - Particle Pack by Unity Technologies -  https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325 <br>
 - Starter Assets – FirstPerson by Unity Technologies - https://assetstore.unity.com/packages/essentials/starterassets-firstperson-updates-in-new-charactercontroller-pac-196525 <br>
 - Starter Assets – ThirdPerson by Unity Technologies - https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526 <br>
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - All Sounds from https://freesound.org/ by author: (I edited some of these in Audacity, so they may sound different in-game): <br>
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - “Click / Snap Sound” by drobin96 - https://freesound.org/people/drobin96/sounds/617288/ <br>
 - “Explosion VAR 2 (Close/Near) (Mixed)” by EFlexMusic - https://freesound.org/people/EFlexMusic/sounds/387230/ <br>
